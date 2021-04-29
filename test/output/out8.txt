@@ -1,0 +1,1 @@
+expected output: string list * int = ([], 0)

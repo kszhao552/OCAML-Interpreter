@@ -1,0 +1,3 @@
+Push 9;
+Pop;
+Pop;
